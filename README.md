@@ -20,6 +20,8 @@
 
 #### Com base do modelo conceitual, foram definidas as tabelas, chaves primárias e estrangeiras.
 
+![Modelo Físico](./prints-consultas/Captura%20de%20tela%202025-08-08%20195425.png)
+
 Artistas: id_artista (PK), nome, biografia, pais.
 
 Albuns: id_album (PK), titulo, ano_lancamento, id_artista (FK).
