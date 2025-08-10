@@ -28,11 +28,14 @@ Musicas: id_musica (PK), titulo, duracao, id_album (FK).
 
 ## Exemplos de consultas
 - Contar o número de músicas em cada álbum.
+
 ![Albuns](./prints-consultas/from_albunsa.png)
 
 - Encontrar músicas de artistas. 
+
 ![Artista_titulo](./prints-consultas/select_a.titulo.png)
 
 - Encontrar todas as músicas de um artista específico.
+
 ![Musica_titulo](./prints-consultas/select_m.titulo.png)
 
